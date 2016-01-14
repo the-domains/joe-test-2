@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.3688857
+  brandStrength: 0.8929174
+  lightness: 0.006835137
+  brandColors:
+    - '#0177CF'
+    - '#9AD0BC'
+    - '#013001'
+    - '#5C656E'
+    - '#FFE901'
+  rhythmicContrast: 0.1115041
+typography_spectrum: 0.2537943
+name: Joe Test 2
